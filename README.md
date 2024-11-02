@@ -1,5 +1,4 @@
 # UDP Chat Application (TP_202035031102)
-=======
 A simple chat application using UDP for communication between a server and a client.
 The application is designed with a GUI using Java Swing.
 ## Server Interface:
